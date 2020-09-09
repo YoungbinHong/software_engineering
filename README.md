@@ -74,13 +74,13 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 
 Project Problem Statement: 고객(client, customer)과 사용자(end user) 관점에서 기술, 개발자 관점이 아니라. 
 
- --> 요구사항 기술
+ --> 요구사항 (Requirement) 기술
 
  --> 풀고자 하는 문제 자체를 기술 (Anlaysis 영역):
 
    * 최소한 개조식 항목 3개~5개
 
-   * 제공하는 기능 관점에서
+   * 제공하는 기능 (functional) 관점에서 (가능하면 nonfunctional requirement도 기술 가능)
 
    * 여러분이 만드는 시스템이 제공하는 기능을 사용하는 주체(어떤 사람인지.. 학생, 교강사, 임산부, 노인 등)가 기술되어야 함
 

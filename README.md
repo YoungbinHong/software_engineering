@@ -14,7 +14,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 
 - - -
 
-### 과제 1
+### 과제 1 : Team Building
 
 * 각 팀은 비대면 소통 진행
 
@@ -64,10 +64,32 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       |고현우|Service & Mapper Implementor|Programming : Java|UML|
       |김현석|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
       |정윤성|Controller Implementor, Master liasion|Programming : C, Java|UML|
-      |홍영빈|Team Leader|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
+      |홍영빈|Team Leader, View Publisher, Controller Implementor|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
       
 - - -
 
-### 과제 2
+### 과제 2 : Problem Statement
+
+지난 번에 제출한 Project GitHub에 Project 제목과 Project Problem Statement를 추가
+
+Project Problem Statement: 고객(client, customer)과 사용자(end user) 관점에서 기술, 개발자 관점이 아니라. 
+
+ --> 요구사항 기술
+
+ --> 풀고자 하는 문제 자체를 기술 (Anlaysis 영역):
+
+   * 최소한 개조식 항목 3개~5개
+
+   * 제공하는 기능 관점에서
+
+   * 여러분이 만드는 시스템이 제공하는 기능을 사용하는 주체(어떤 사람인지.. 학생, 교강사, 임산부, 노인 등)가 기술되어야 함
+
+   * 이 시스템의 기능을 제공하기 위해서 활용해야 되는 외부 시스템 (기상청 날씨 제공 서버, 식당 CC TV 등)이 있으면 기술해야 함
+
+   * 활용해야 되는 I/O 디바이스(LCD 패널, 브레이크, 엑셀, 특수 버튼, 비콘)가 기술되어야 함
+
+ --> 구체적인 기술로 어떻게 하는지는 얘기를 안 해도 됨 (Design 영역) 
+
+1, 2, 4팀은 발표
 
 - - -

@@ -7,7 +7,7 @@ This is the class project of Team 5, Software Engineering Class, Information and
 When junior and rookie developer starts to work in big scale field work, they should know about UML(Unified Modeling Language) to contribute well in the project. We would use class material to improve our main contribute ability in any programming development.
 
 ### Contributor (Team Members)
-Byungkyu Kang / Hyunseok Kim / Hyenwoo Ko / Yoonsung Jung / 👑 Youngbin Hong
+강병규 / 고현우 / 김현석 / 정윤성 / 👑 홍영빈
 
 ### Supervisor Professor
 Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
@@ -60,11 +60,11 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
    
       |Participant|Role|Skills|Training needs|
       |:---------:|:--:|:----:|:------------:|
-      |Byungkyu Kang|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
-      |Hyunseok Kim|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
-      |Hyenwo Ko|Service & Mapper Implementor|Programming : Java|UML|
-      |Yoonsung Jung|Controller Implementor, Master liasion|Programming : C, Java|UML|
-      |Youngbin Hong|Team Leader|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
+      |강병규|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
+      |고현우|Service & Mapper Implementor|Programming : Java|UML|
+      |김현석|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
+      |정윤성|Controller Implementor, Master liasion|Programming : C, Java|UML|
+      |홍영빈|Team Leader|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
       
 - - -
 

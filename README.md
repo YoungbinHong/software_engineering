@@ -56,10 +56,6 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
    
-      Example Image)
-   
-      ![example1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/example1.png)
-   
       Team Member Composition)
    
       |Participant|Role|Skills|Training needs|

@@ -52,7 +52,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 
    - 프로젝트 주제
    
-      Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap.
+      Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap. : 과 홈페이지 리뉴얼.
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
    
@@ -75,6 +75,16 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 Project Problem Statement: 고객(client, customer)과 사용자(end user) 관점에서 기술, 개발자 관점이 아니라. 
 
  --> 요구사항 (Requirement) 기술
+ 
+   * 현대적인 홈페이지에 어울리는 세련된 디자인 감각.
+   
+   * 게시판에 학생들의 의견 반영을 위한 기능 추가.
+   
+   * 교과과정에 자유롭게 과목을 추가하고 제거할 수 있는 UI 구성, 전면적인 구성 개편 필요.
+   
+   * 학기 초 학생들의 서적 구매 편의성을 위하여 한정기간 책 공동구매 탭이 필요함.
+   
+   * 영업시간 내에 학교 생활에서의 애로 및 건의사항 해결을 위하여 학과 조교님과 학부생의 실시간 채팅 상담 기능 추가.
 
  --> 풀고자 하는 문제 자체를 기술 (Anlaysis 영역):
 
@@ -87,6 +97,21 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    * 이 시스템의 기능을 제공하기 위해서 활용해야 되는 외부 시스템 (기상청 날씨 제공 서버, 식당 CC TV 등)이 있으면 기술해야 함
 
    * 활용해야 되는 I/O 디바이스(LCD 패널, 브레이크, 엑셀, 특수 버튼, 비콘)가 기술되어야 함
+   
+      - 교과과정에 있어 학부생들에게 지금보다 더 많은 정보를 제공.
+
+         필요 서적.
+         원할한 수업 이해를 위한 배경지식.
+         학기 초에 교수님들께서 교과목에 연결될 경우 담당 교수님의 정보 제공.
+         종합정보시스템과의 연계로 강의계획서를 볼 수 있는 링크 제공.
+
+      - 사용하는 주체 : 한국외국어대학교 정보통신공학과에 관심이 있는 대학 진학 예정자, 정보통신공학과 학부생, 정보통신공학과 대학원생, 학부 조교, 학부 교수.
+
+      - 제공하는 기능 : 학과에서 운영하는 스터디룸 예약 시스템 제공.
+
+      - 홈페이지의 직관성 : 2% 부족한 직관성 추가 보완.
+      
+      - 전공 서적 가격 비교를 위해 각 서적 사이트의 전공 책 가격 비교 시스템 구축.
 
  --> 구체적인 기술로 어떻게 하는지는 얘기를 안 해도 됨 (Design 영역) 
 

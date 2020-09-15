@@ -78,11 +78,11 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
    
    |Participant|Roles|Skills|Training needs|
    |:----------|:----|:-----|:-------------|
-   |강병규|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
-   |고현우|Service & Mapper Implementor|Programming : Java|UML|
-   |김현석|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
-   |정윤성|Controller Implementor, Master liasion|Programming : C, Java|UML|
-   |홍영빈|Team Leader, View Publisher, Controller Implementor|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
+   |강병규|View Publisher|Programming: C, Java|Bootstrap, HTML, CSS, JS|
+   |고현우|Service & Mapper Implementor|Programming: Java|UML|
+   |김현석|Database Management<br>Tester|Programming: Python, C, SQL<br>Framework: Django|JAVA, UML, mybatis|
+   |정윤성|Controller Implementor<br>Master liasion|Programming: C, Java|UML|
+   |홍영빈|Team Leader<br>View Publisher<br>Controller Implementor|Programming: C, Java, Python, mybatis, Freemarker<br>Framework: Django, Spring, Bootstrap|UML|
       
 - - -
 ### 과제 2 : Problem Statement
@@ -126,21 +126,21 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
  - 풀고자 하는 문제 (Anlaysis 영역)
    
-   * 교과과정에 있어 학부생들에게 지금보다 더 많은 정보를 제공.
+   * "학과 홈페이지"의 "교과과정 탭" 에서, 학부생들에게 다음과 같은 상세한 학과 과목의 정보를 제공.
 
-      필요 서적.
-      원할한 수업 이해를 위한 배경지식.
-      학기 초에 교수님들께서 교과목에 연결될 경우 담당 교수님의 정보 제공.
-      종합정보시스템과의 연계로 강의계획서를 볼 수 있는 링크 제공.
+      1. 학과 교육이수에 필요한 전공 서적.
+      2. 원활한 수업 이해를 위한 전공관련 배경지식. (이수요구사항)
+      3. 학기 초에 담당 교수님 배정 이후 교과목 교수님의 정보 자동 제공.
+      4. 한국외국어대학교 종합정보시스템과의 연계로 선택 교과목의 강의계획서를 볼 수 있는 링크 제공.
+      
+   * 학과에서 운영하는 스터디룸 예약 시스템 제공.
 
-   * 사용하는 주체 : 한국외국어대학교 정보통신공학과에 관심이 있는 대학 진학 예정자, 정보통신공학과 학부생, 정보통신공학과 대학원생, 학부 조교, 학부 교수.
+   * 한국외국어대학교 정보통신공학과에 관심이 있는 대학 진학 예정자, 정보통신공학과 학부생, 학부 편입생 등이 사용하는 주체가 될 예정.
 
-   * 제공하는 기능 : 학과에서 운영하는 스터디룸 예약 시스템 제공.
-
-   * 홈페이지의 직관성 : 2% 부족한 직관성 추가 보완.
+   * 홈페이지의 약간 부족한 직관성을 보완하여 디자인적 요소를 Bootstrap Framework를 활용하여 개선.
 
    * 전공 서적 가격 비교를 위해 각 서적 사이트의 전공 책 가격 비교 시스템 구축.
 
- - 대략적인 디자인 (Design 영역) 
+ - 대략적인 디자인 (Design 영역)
    
 - - -

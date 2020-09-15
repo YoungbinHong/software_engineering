@@ -28,10 +28,6 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       
       - 비대면 미팅 시간 잡기: 카톡 투표 기능을 이용: <br> https://blog.naver.com/PostView.nhn?blogId=worms1603&logNo=221671288671
       
-         Photo of screenshot)
-
-         ![kakaotalk1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/kakaotalk1.png)
-      
    - Google hangout으로 비대면 미팅
 
       - 카톡 단톡방에서 google meet 주소 공유
@@ -40,25 +36,37 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       
       - google meet은 특별히 설정을 하지 않는 한 채팅했던 내용이 사라짐
       
-      Photo of screenshot)
-      
-      ![hangout1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/hangout1.png)
-      
    - Github에 프로젝트 팀 페이지 개설
-      
-      URL) https://github.com/archer0307/HUFS2020SoftwareEngineering
    
 * Github 링크 제출 (못 만들었으면, 그냥 문서(ppt)로 제출)
 
    - 프로젝트 주제
-   
-      Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap. : 과 홈페이지 리뉴얼.
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
+      
+- - -
+
+### 과제 1 답안
+      
+   - 비대면 미팅 시간 
+
+   ![kakaotalk1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/kakaotalk1.png)
    
-      Team Member Composition)
+   - Google Hangout으로 비대면 미팅 진행
    
-      |Participant|Role|Skills|Training needs|
+   ![hangout1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/hangout1.png)
+   
+   - Github Team Project URL
+   
+   URL) https://github.com/archer0307/HUFS2020SoftwareEngineering
+   
+   - 프로젝트 주제
+   
+   Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap. : HUFS ICE homepage renewal.
+   
+   - 팀 구성원들의 역할과 멤버 역량, 그리고 요구 사항
+   
+   |Participant|Role|Skills|Training needs|
       |:---------:|:--:|:----:|:------------:|
       |강병규|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
       |고현우|Service & Mapper Implementor|Programming : Java|UML|

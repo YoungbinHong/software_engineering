@@ -43,6 +43,16 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
    - 프로젝트 주제
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
+   
+   교과서 예시)
+   
+   |Participant|Roles|Skills|Training needs|
+   |:----------|:----|:-----|:-------------|
+   |Alice|Team leader|Management: team leader<br>Programming: C<br>Configuration management|UML<br>Communication skills|
+   |John|Architecture liasion<br>Implementor|Programming: C++<br>Modeling: UML|Java|
+   |Mary|Configuration manager<br>Implementor|Programming: C++,Java<br>Modeling: Entity relationship<br>Databases: relational<br>Configuration management|Object-oriented databases<br>UML modeling|
+   |Chris|Implementor|Programming: C++, Java<br>Modeling: Entity relationship<br>Databases: object-oriented|UML modeling|
+   |Sam|Facilities management liasion<br>Tester|Programming: C++<br>Testing: whitebox,blackbox|Inspections<br>Java|
       
 - - -
 
@@ -66,13 +76,13 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
    
    - 팀 구성원들의 역할과 멤버 역량, 그리고 요구 사항
    
-   |Participant|Role|Skills|Training needs|
-      |:---------:|:--:|:----:|:------------:|
-      |강병규|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
-      |고현우|Service & Mapper Implementor|Programming : Java|UML|
-      |김현석|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
-      |정윤성|Controller Implementor, Master liasion|Programming : C, Java|UML|
-      |홍영빈|Team Leader, View Publisher, Controller Implementor|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
+   |Participant|Roles|Skills|Training needs|
+   |:----------|:----|:-----|:-------------|
+   |강병규|View Manager|Programming : C, Java|Bootstrap, HTML, CSS, JS|
+   |고현우|Service & Mapper Implementor|Programming : Java|UML|
+   |김현석|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
+   |정윤성|Controller Implementor, Master liasion|Programming : C, Java|UML|
+   |홍영빈|Team Leader, View Publisher, Controller Implementor|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
       
 - - -
 

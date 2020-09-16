@@ -131,6 +131,10 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
       3. 학기 초에 담당 교수님 배정 이후 교과목 교수님의 정보 자동 제공.
       4. 한국외국어대학교 종합정보시스템과의 연계로 선택 교과목의 강의계획서를 볼 수 있는 링크 제공.
       
+      현재 교육과정 탭)
+      
+      ![curriculum](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/curriculum.png)
+      
    * 학과에서 운영하는 스터디룸 예약 시스템 제공.
 
    * 한국외국어대학교 정보통신공학과에 관심이 있는 대학 진학 예정자, 정보통신공학과 학부생, 학부 편입생 등이 사용하는 주체가 될 예정.

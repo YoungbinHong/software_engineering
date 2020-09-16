@@ -161,3 +161,25 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    * 교과과정에 자유롭게 과목을 추가하고 제거할 수 있는 UI 구성, 전면적인 구성 개편 필요.
    
 - - -
+
+### 과제 3 : 	Use Case Diagram
+
+* Use Case Diagram
+
+  - 모두 영어로: 왜냐하면, 결국 영어로 작성되는 SW로 구현될 것이어서
+
+  - Visual Paradigm으로 작성
+
+  - Actors: user, I/O device, external system that our system exploits
+
+  - Use Cases: Verb (동사) + Objective (목적어) 
+
+  - System Boundary (직사각형): 분산 시스템이면 여러 개 있을 수 있음
+
+* Scenario Description (최소한 하나 이상)
+
+* Use Case Description (모든 use case에 대해 다 할 필요는 없으나, 최소한 하나의 use case에 대해서는 작성)
+
+==> Github 링크로 제출
+
+* 3, 5, 6팀은 반드시 발표.

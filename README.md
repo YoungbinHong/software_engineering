@@ -85,6 +85,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
    |홍영빈|Team Leader<br>View Publisher<br>Controller Implementor|Programming: C, Java, Python, mybatis, Freemarker<br>Framework: Django, Spring, Bootstrap|UML|
       
 - - -
+
 ### 과제 2 : Problem Statement
 
 지난 번에 제출한 Project GitHub에 Project 제목과 Project Problem Statement를 추가
@@ -110,15 +111,12 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 1, 2, 4팀은 발표
 
 - - -
+
 ### 과제 2 답안
 
  - 요구사항 (Requirement 영역)
- 
-   * 현대적인 홈페이지에 어울리는 세련된 디자인 감각.
    
    * 게시판에 학생들의 의견 반영을 위한 기능 추가.
-   
-   * 교과과정에 자유롭게 과목을 추가하고 제거할 수 있는 UI 구성, 전면적인 구성 개편 필요.
    
    * 학기 초 학생들의 서적 구매 편의성을 위하여 한정기간 책 공동구매 탭이 필요함.
    
@@ -137,8 +135,6 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
    * 한국외국어대학교 정보통신공학과에 관심이 있는 대학 진학 예정자, 정보통신공학과 학부생, 학부 편입생 등이 사용하는 주체가 될 예정.
 
-   * 홈페이지의 약간 부족한 직관성을 보완하여 디자인적 요소를 Bootstrap Framework를 활용하여 개선.
-
    * 전공 서적 가격 비교를 위해 각 서적 사이트의 전공 책 가격 비교 시스템 구축.
    
    * 보안을 위한 도구
@@ -149,9 +145,15 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    
    * 활용되는 Input/Output 디바이스.
       
-      1. 보안에 상대적으로 Linux 보다 안전한 Windows 서버 컴퓨터.
-      2. 서버 컴퓨터 내부의 대용량 하드 디스크.
+      1. 보안에 상대적으로 Linux 보다 안전한 Windows 서버 컴퓨터 사용.
+      2. 서버 컴퓨터 내부의 대용량 하드 디스크 필요.
 
  - 대략적인 디자인 (Design 영역)
+   
+   * 현대적인 홈페이지에 어울리는 세련된 디자인 감각.
+   
+   * 홈페이지의 약간 부족한 직관성을 보완하여 디자인적 요소를 Bootstrap Framework를 활용하여 개선.
+   
+   * 교과과정에 자유롭게 과목을 추가하고 제거할 수 있는 UI 구성, 전면적인 구성 개편 필요.
    
 - - -

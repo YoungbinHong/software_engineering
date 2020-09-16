@@ -140,6 +140,16 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    * 홈페이지의 약간 부족한 직관성을 보완하여 디자인적 요소를 Bootstrap Framework를 활용하여 개선.
 
    * 전공 서적 가격 비교를 위해 각 서적 사이트의 전공 책 가격 비교 시스템 구축.
+   
+   * 보안을 위한 도구
+      
+      1. 공유기를 활용한 포트포워딩.
+      2. 소스코드 내부의 HashMap을 extends한 CamelMap을 활용하여 메소드에 접근 할 수 없게 제한.
+   
+   * 활용되는 Input/Output 디바이스.
+      
+      1. 보안에 상대적으로 Linux 보다 안전한 Windows 서버 컴퓨터.
+      2. 서버 컴퓨터 내부의 대용량 하드 디스크.
 
  - 대략적인 디자인 (Design 영역)
    

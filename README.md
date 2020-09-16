@@ -104,7 +104,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    * 이 시스템의 기능을 제공하기 위해서 활용해야 되는 외부 시스템 (기상청 날씨 제공 서버, 식당 CC TV 등)이 있으면 기술해야 함
 
    * 활용해야 되는 I/O 디바이스(LCD 패널, 브레이크, 엑셀, 특수 버튼, 비콘)가 기술되어야 함
-
+   
  --> 구체적인 기술로 어떻게 하는지는 얘기를 안 해도 됨 (Design 영역) 
 
 1, 2, 4팀은 발표
@@ -144,7 +144,8 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    * 보안을 위한 도구
       
       1. 공유기를 활용한 포트포워딩.
-      2. 소스코드 내부의 HashMap을 extends한 CamelMap을 활용하여 메소드에 접근 할 수 없게 제한.
+      2. 공유기를 통한 중국발 외부 IP 및 포트 원천 차단.
+      3. 소스코드 내부의 HashMap을 extends한 CamelMap을 활용하여 메소드에 접근 할 수 없게 제한.
    
    * 활용되는 Input/Output 디바이스.
       

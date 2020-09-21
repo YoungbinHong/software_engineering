@@ -183,3 +183,15 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 ==> Github 링크로 제출
 
 * 3, 5, 6팀은 반드시 발표.
+
+- - -
+
+### 과제 3 : 답안
+
+* Use Case Diagram
+
+![UseCaseDiagram1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram1.jpg)
+
+* Scenario Description
+
+* Use Case Description

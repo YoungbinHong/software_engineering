@@ -198,18 +198,18 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
 * Use Case Description
 
-   *1.SearchSemesterinfo
+   *1.GetBookInfo
    
    ![usecase](https://user-images.githubusercontent.com/67492707/93891359-4b2c4b00-fd26-11ea-9ef9-1d5521dea216.jpg)
    
       
-      1.학과 홈페이지 과목에 들어가면 학년에 있는 전공들이 학년별로 나와있다.
+      1. Actor(학생, 학과 조교 및 교수진)은 한 학기에 대한 링크를 클릭한다.
 
-      2.각 전공을 클릭하면 그 전공에서 사용하는 책, 이전공과 연계되는 전공, 무엇을 배우는가에 대하여 적혀있다.
+            2. 학과 홈페이지는 SemeseterInfo page로 넘어간다. 그 페이지에는 그 학기에 수강할 수 있는 강의, 그 강의에서 쓰는 교재, 연계 과목 등이  쓰여있다. 교재 제목은 서점의 검색                페이지로 링크되어있다.
 
-      3.책 이름을 클릭하면 그책을 구입하는 사이트로 넘어간다.(getBooklistinfo)
+      3. Actor는 교재 제목을 클릭한다
 
-      4. 연계전공을 클릭하면 그과목의 정보로 넘어간다 
+            4. 링크는 서점의 검색창으로 연결된다. 그 페이지에는 교재의 가격이 적혀있다.
               
    
 
@@ -225,17 +225,3 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
       3. 수신자(과 조교나 교수진)는 채팅창을 통해 답한다. 창 위쪽에는, 송신자의 이름이 명시되어 있다. 이 후 이 메시지를 과 홈페이지로 전달한다.
       
             4.  과 홈페이지는 메시지를 수신자(이 경우엔 송신자(학생))에게 보낸다.
-
-  
-   *3 GetBookListinfo
-   
-   ![usecase2](https://user-images.githubusercontent.com/67492707/93892158-297f9380-fd27-11ea-9a3f-b60e926a4fec.jpg)
-
-      
-      1. 각 학과 별로 사용하는 전공책들의 리스트
-
-      2.(1)책을 검색하거나 (2)전공이름 > 전공책 클릭시 그책의 관한 가격 및  구입창 출력
-
-      3. 이 책을 구매할수있는 사이트중 가장 적은 가격의 사이트순으로 가격을 보여줌
-
-      4. 이책을 구입하는데 사용할수있는 할인 정보를 보여줌

@@ -217,6 +217,9 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 ![openChattingPort](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/openChattingPort.JPG)
 
    *3 GetBookListinfo
+   
+   ![usecase2](https://user-images.githubusercontent.com/67492707/93892158-297f9380-fd27-11ea-9a3f-b60e926a4fec.jpg)
+
       
       1. 각 학과 별로 사용하는 전공책들의 리스트
 

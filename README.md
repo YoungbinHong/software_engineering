@@ -199,6 +199,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 * Use Case Description
    
    *1.SearchSemesterinfo
+      
       1.학과 홈페이지 과목에 들어가면 학년에 있는 전공들이 학년별로 나와있다.
 
       2.각 전공을 클릭하면 그 전공에서 사용하는 책, 이전공과 연계되는 전공, 무엇을 배우는가에 대하여 적혀있다.
@@ -213,6 +214,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 ![openChattingPort](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/openChattingPort.JPG)
 
    *3 GetBookListinfo
+      
       1. 각 학과 별로 사용하는 전공책들의 리스트
 
       2.(1)책을 검색하거나 (2)전공이름 > 전공책 클릭시 그책의 관한 가격 및  구입창 출력

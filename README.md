@@ -198,7 +198,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
 * Use Case Description
 
-   *1.GetBookInfo
+   *1.searchBookInfo
    
    ![SearchBookInfo](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/SearchBookInfo.JPG)
    

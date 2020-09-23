@@ -216,6 +216,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
    *2. OpenChattingPort
 
    ![openChattingPort](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/openChattingPort.JPG)
+   
       1. 학생은 화면 오른쪽 밑에 있는 작은 창에서 두 개 중 하나의 버튼을 선택한다:"조교와 채팅" / "교수님과 채팅". 이 후 창은 채팅창으로 바뀐다. 창 위쪽에는 수신자의 이름이 명시
          되어 있다. 학생은 메시지를 작성한다. 그리고 서버는 그 메시지를 과 홈페이지로 전달한다.
 

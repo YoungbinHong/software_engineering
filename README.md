@@ -190,7 +190,7 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
 * Use Case Diagram
 
-![UseCaseDiagram1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram1.jpg)
+![UseCaseDiagram2](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram2.jpg)
 
 * Scenario Description
 

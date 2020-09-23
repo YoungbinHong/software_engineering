@@ -183,3 +183,60 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 ==> Github 링크로 제출
 
 * 3, 5, 6팀은 반드시 발표.
+
+- - -
+
+### 과제 3 : 답안
+
+* Use Case Diagram
+
+![UseCaseDiagram1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram1.jpg)
+
+* Scenario Description
+
+  대학 신입생인 현석은 학기가 시작하기 전 자신이 공부할 과목을 알아보기  위해 학과 홈페이지에 방문했다. 학과 홈페이지에는 현석이 1학년때 배울 필수과목이 무엇인지, 어떤 교수님이 가르치시는지, 교재는 무엇이 필요한지 다 나와있었다. 배울 과목들이 전부 생소했던 현석은 미리 교재를 사서 봐 두려고 학과 홈페이지의 온라인서점 연결 메뉴를 클릭하자 현석의 학년에 맞는 수업들의 교재들의 온라인 서점별 가격이 나열되어있었다. 덕분에 현석은 가장 저렴한 가격인 온라인 서점에서 교재를 구입할수 있었다. 교재 구입을 마치고 정보종합시스템에서 1학년 공통 전공을 살펴보던 현석은 공업수학1 과목이 두개가 개설된것을 보았다. 하나는 원어 수업이었고 하나는 한국어 수업이었는데 이중 무엇을 들어야 하는지 궁금해졌다. 그래서 현석은 학과 홈페이지의 조교님과 실시간 대화창을 열고 질문하였고 얼마 지나지 않아 조교님은 영어수업이 현석이 들어야할 과목임을 답변을 주었다.
+
+* Use Case Description
+
+   *1.searchBookInfo
+   
+   ![SearchBookInfo](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/SearchBookInfo.JPG)
+   
+      
+      1. Actor(학생, 학과 조교 및 교수진)은 한 학기에 대한 링크를 클릭한다.
+
+            2. 학과 홈페이지는 SemeseterInfo page로 넘어간다. 그 페이지에는 그 학기에 수강할 수 있는 강의, 그 강의에서 쓰는 교재, 연계 과목 등이  쓰여있다. 교재 제목은 서점의 검색                페이지로 링크되어있다.
+
+      3. Actor는 교재 제목을 클릭한다
+
+            4. 링크는 서점의 검색창으로 연결된다. 그 페이지에는 교재의 가격이 적혀있다.
+              
+   
+
+   *2. OpenChattingPort
+
+   ![openChattingPort](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/SearchBookInfo.JPG)
+
+      1. 학생은 화면 오른쪽 밑에 있는 작은 창에서 두 개 중 하나의 버튼을 선택한다:"조교와 채팅" / "교수님과 채팅". 이 후 창은 채팅창으로 바뀐다. 창 위쪽에는 수신자의 이름이 명시
+         되어 있다. 학생은 메시지를 작성한다. 그리고 서버는 그 메시지를 과 홈페이지로 전달한다.
+
+            2. 과 홈페이지는 메시지를 수신자에게 보낸다.
+      
+      3. 수신자(과 조교나 교수진)는 채팅창을 통해 답한다. 창 위쪽에는, 송신자의 이름이 명시되어 있다. 이 후 이 메시지를 과 홈페이지로 전달한다.
+      
+            4.  과 홈페이지는 메시지를 수신자(이 경우엔 송신자(학생))에게 보낸다.
+            
+            
+    *3. GetBookListinfo
+    
+    ![usecase2](https://user-images.githubusercontent.com/67492707/93951495-73956300-fd81-11ea-8c9c-9a300299bbc9.jpg)
+    
+      
+         1.각 학과별로 사용하는 전공책들의 리스트
+
+         2.(1)책을 검색하거나,(2)전공이름 > 전공책 클릭시 그책의 관한 가격및 구입창 출력
+         
+         3.이 책을 구매할수있는 사이트중 가장 적은 가격의 사이트순으로 가격을 보여줌
+         
+         4.이책을 구입하는데 사용할수있는 할인정보를 보여줌
+

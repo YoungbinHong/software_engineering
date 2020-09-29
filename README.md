@@ -205,45 +205,43 @@ Scenario:
 
 * Use Case Description
 
-   *1.SearchBookInfo
+   *1.searchBookInfo
    
-   ![SearchBookInfo](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/SearchBookInfo.JPG)
-   
+   ![searchBookInfo](https://github.com/archer0307/HUFS2020SoftwareEngineering/images/searchBookInfo.jpg)
       
       1. 학생, 학과 조교 및 교수진은 한 학기에 대한 링크를 클릭한다.
 
-            2. 학과 홈페이지는 SemeseterInfo page로 넘어간다. 그 페이지에는 그 학기에 수강할 수 있는 강의, 그 강의에서 쓰는 교재, 연계 과목 등이 쓰여있다. 교재 제목은 서점의 검색  페이지로 링크되어있다.
+      2. 학과 홈페이지는 SemeseterInfo page로 넘어간다. 그 페이지에는 그 학기에 수강할 수 있는 강의, 그 강의에서 쓰는 교재, 연계 과목 등이 쓰여있다. 교재 제목은 서점의 검색  페이지로 링크되어있다.
 
       3. 학생, 학과 조교 및 교수진은 교재 제목을 클릭한다
 
-            4. 링크는 서점의 검색창으로 연결된다. 그 페이지에는 교재의 가격이 적혀있다.
+      4. 링크는 서점의 검색창으로 연결된다. 그 페이지에는 교재의 가격이 적혀있다.
               
    
 
-   *2. OpenChattingPort
+   *2. setRTChattingService
 
-   ![openChattingPort](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/openChattingPort.JPG)
+   ![setRTChattingService](https://github.com/archer0307/HUFS2020SoftwareEngineering/images/setRTChattingService.jpg)
    
       1. 학생은 화면 오른쪽 밑에 있는 작은 창에서 두 개 중 하나의 버튼을 선택한다:"조교와 채팅" / "교수님과 채팅". 이 후 창은 채팅창으로 바뀐다. 창 위쪽에는 수신자의 이름이 명시
          되어 있다. 학생은 메시지를 작성한다. 그리고 서버는 그 메시지를 과 홈페이지로 전달한다.
 
-            2. 과 홈페이지는 메시지를 수신자에게 보낸다.
-      
-      3. 수신자(과 조교나 교수진)는 채팅창을 통해 답한다. 창 위쪽에는, 송신자의 이름이 명시되어 있다. 이 후 이 메시지를 과 홈페이지로 전달한다.
-      
-            4. 과 홈페이지는 메시지를 수신자(이 경우엔 송신자(학생))에게 보낸다.
-            
-            
-    *3. GetBookListinfo
-    
-    ![usecase2](https://user-images.githubusercontent.com/67492707/93951495-73956300-fd81-11ea-8c9c-9a300299bbc9.jpg)
-    
-      
-         1.각 학과별로 사용하는 전공책들의 리스트
+      2. 과 홈페이지는 메시지를 수신자에게 보낸다.
 
-         2.(1)책을 검색하거나,(2)전공이름 > 전공책 클릭시 그책의 관한 가격및 구입창 출력
-         
-         3.이 책을 구매할수있는 사이트중 가장 적은 가격의 사이트순으로 가격을 보여줌
-         
-         4.이책을 구입하는데 사용할수있는 할인정보를 보여줌
+      3. 수신자(과 조교나 교수진)는 채팅창을 통해 답한다. 창 위쪽에는, 송신자의 이름이 명시되어 있다. 이 후 이 메시지를 과 홈페이지로 전달한다.
+
+      4. 과 홈페이지는 메시지를 수신자(이 경우엔 송신자(학생))에게 보낸다.
+            
+            
+    *3. showBookList
+    
+    ![showBookList](https://github.com/archer0307/HUFS2020SoftwareEngineering/images/showBookList.jpg)
+    
+      1.각 학과별로 사용하는 전공책들의 리스트
+
+      2.(1)책을 검색하거나,(2)전공이름 > 전공책 클릭시 그책의 관한 가격및 구입창 출력
+
+      3.이 책을 구매할수있는 사이트중 가장 적은 가격의 사이트순으로 가격을 보여줌
+
+      4.이책을 구입하는데 사용할수있는 할인정보를 보여줌
 

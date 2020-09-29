@@ -190,17 +190,18 @@ Project Problem Statement: 고객(client, customer)과 사용자(end user) 관�
 
 * Use Case Diagram
 
-![UseCaseDiagram2](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram2.jpg)
+![UseCaseDiagram3](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/UseCaseDiagram3.jpg)
 
 * Scenario Description
 
-actors: 대학생 현석, 조교
+Actors: 대학생 현석, 학과 사무실 조교
+
 Scenario:
-1. 대학 신입생인 현석은 학기가 시작하기 전 자신이 공부할 과목을 알아보기 위해 학과 홈페이지에 방문했다.
-2. 공부할 과목을 알아본 현석은 교재 구매를 위해 학과홈페이지의 온라인 서점 가격 비교 서비스 메뉴를 클릭.
-3. 서점별 가격이 나열되어있어 현석은 그중 가장 싼 곳에서 구매할수 있었다.
-4. 교재 구입 후 전공과목에서 의문이 생긴 현석은 학과 홈페이지의 실시간 대화창으로 질문을 했다.
-5. 조교는 실시간 대화창에서 현석이 날린 메시지를 보고 확인 후 답변해주었다.
+   1. 대학 신입생인 현석은 학기가 시작하기 전 자신이 공부할 과목을 알아보기 위해 학과 홈페이지에 방문했다.
+   2. 공부할 과목을 알아본 현석은 교재 구매를 위해 학과홈페이지의 온라인 서점 가격 비교 서비스 메뉴를 클릭.
+   3. 서점별 가격이 나열되어있어 현석은 그중 가장 싼 곳에서 구매할수 있었다.
+   4. 교재 구입 후 전공과목에서 의문이 생긴 현석은 학과 홈페이지의 실시간 대화창으로 질문을 했다.
+   5. 조교는 실시간 대화창에서 현석이 날린 메시지를 보고 확인 후 답변해주었다.
 
 * Use Case Description
 

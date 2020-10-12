@@ -244,4 +244,15 @@ Scenario:
       3.이 책을 구매할수있는 사이트중 가장 적은 가격의 사이트순으로 가격을 보여줌
 
       4.이책을 구입하는데 사용할수있는 할인정보를 보여줌
+      
+- - -
+
+### 과제 4 : 답안
+
+     
+   *reserveStudyRoom sequencediagram
+   
+   ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
+
+   작성자:강병규
 

@@ -248,7 +248,15 @@ Scenario:
 - - -
 
 ### 과제 4 : Make Diagram
-   *Object Diagram
+   **Class Diagram
+   
+   ![bookPurchaseClass](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/bookpurchase.JPG)
+
+   *작성자:정윤성*
+   
+   
+   **Object Diagram
+   
    Senario:   
    
    1. 대학 신입생인 현석은 학기가 시작하기 전 자신이 공부할 과목을 알아보기 위해 학과 홈페이지에 방문했다.
@@ -257,14 +265,14 @@ Scenario:
    
    ![Object1](https://user-images.githubusercontent.com/49778514/95831348-dfad2a80-0d73-11eb-8c3d-d5bf216bc862.png)
    
-   작성자:김현석
+   *작성자:김현석*
 
 
-   *Sequece Diagram
+   **Sequece Diagram
    
-   **1. Use Case: reserveStudyRoom**
+      **1. Use Case: reserveStudyRoom**
    
-   ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
+     ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
 
    *작성자:강병규*
 
@@ -272,7 +280,7 @@ Scenario:
 
 
 
-   **2. Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
+      **2. Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
    
    ![Sequence2](https://user-images.githubusercontent.com/70632490/95815615-ff365a00-0d57-11eb-96a3-03badcfddc6b.png)
     

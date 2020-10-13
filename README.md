@@ -248,6 +248,17 @@ Scenario:
 - - -
 
 ### 과제 4 : Make Diagram
+   *Object Diagram
+   Senario:   
+   
+   1. 대학 신입생인 현석은 학기가 시작하기 전 자신이 공부할 과목을 알아보기 위해 학과 홈페이지에 방문했다.
+   2. 공부할 과목을 알아본 현석은 교재 구매를 위해 학과홈페이지의 온라인 서점 가격 비교 서비스 메뉴를 클릭.
+   3. 서점별 가격이 나열되어있어 현석은 그중 가장 싼 곳에서 구매할수 있었다.
+   
+   ![Object1](https://user-images.githubusercontent.com/49778514/95831348-dfad2a80-0d73-11eb-8c3d-d5bf216bc862.png)
+   
+   작성자:김현석
+
 
      
    *reserveStudyRoom sequencediagram

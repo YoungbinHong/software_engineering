@@ -257,8 +257,8 @@ Scenario:
    작성자:강병규
 
 
-   *seachSemesterInfo, search classInfo, getclassListData, searchClassInfo, showBookList Sequencediagram
+   **Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
    ![Sequence2](https://user-images.githubusercontent.com/70632490/95815615-ff365a00-0d57-11eb-96a3-03badcfddc6b.png)
     
-   작성자: 고현우
+   *작성자: 고현우*
 

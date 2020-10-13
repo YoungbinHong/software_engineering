@@ -261,6 +261,7 @@ Scenario:
 
 
    *Sequece Diagram
+   
    **1. Use Case: reserveStudyRoom**
    
    ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)

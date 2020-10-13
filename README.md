@@ -250,7 +250,7 @@ Scenario:
 ### 과제 4 : Make Diagram
    **Class Diagram
    
-   ![bookPurchaseClass](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/bookpurchase.JPG)
+   ![ClassDiagram](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/ClassDiagram.JPG)
 
    *작성자:정윤성*
    

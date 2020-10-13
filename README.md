@@ -247,7 +247,7 @@ Scenario:
       
 - - -
 
-### 과제 4 : 답안
+### 과제 4 : Make Diagram
 
      
    *reserveStudyRoom sequencediagram
@@ -255,4 +255,10 @@ Scenario:
    ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
 
    작성자:강병규
+
+
+   *seachSemesterInfo, search classInfo, getclassListData, searchClassInfo, showBookList Sequencediagram
+   ![Sequence2](https://user-images.githubusercontent.com/70632490/95815615-ff365a00-0d57-11eb-96a3-03badcfddc6b.png)
+    
+   작성자: 고현우
 

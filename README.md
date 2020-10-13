@@ -270,9 +270,9 @@ Scenario:
 
    **Sequece Diagram
    
-      **1. Use Case: reserveStudyRoom**
+   *1. Use Case: reserveStudyRoom**
    
-     ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
+   ![ReserveStudyRoom](https://user-images.githubusercontent.com/67492707/95797652-fd09d680-0d2a-11eb-98f9-257981780445.png)
 
    *작성자:강병규*
 
@@ -280,7 +280,7 @@ Scenario:
 
 
 
-      **2. Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
+   *2. Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
    
    ![Sequence2](https://user-images.githubusercontent.com/70632490/95815615-ff365a00-0d57-11eb-96a3-03badcfddc6b.png)
     

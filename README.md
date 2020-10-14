@@ -278,11 +278,9 @@ Scenario:
 
 
 
-
-
-   *2. Use Case: SeachSemesterInfo, SearchClassInfo, getclassListData, SearchBookInfo, getBookListData, showBookList**
+   *2. Use Case: Web, Group purchase*
    
-   ![Sequence2](https://user-images.githubusercontent.com/70632490/95815615-ff365a00-0d57-11eb-96a3-03badcfddc6b.png)
+   ![sequence](https://user-images.githubusercontent.com/70632490/95938347-ad073e80-0e14-11eb-8dda-32a378f491bc.PNG)
     
    *작성자: 고현우*
 

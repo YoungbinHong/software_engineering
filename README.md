@@ -247,7 +247,40 @@ Scenario:
       
 - - -
 
-### 과제 4 : Make Diagram
+### 과제 4 : Sequence Diagram and Class Diagram
+
+Sequence Diagram and Class Diagram 
+
+* 수정된 use case diagram, use case/scenario description 
+
+    - 담당자 이름 표시
+
+* Use case diagram의 각 use case 별로 하나씩 sequence diagram이 그려져야 함.
+
+    - 여러분 숙제에서는 중요한 use case 2~3개를 골라서 각각 2~3개의 sequence diagram을 그림
+
+    - 작성자 이름 표시 
+
+* Class diagram은 한 개
+
+    - Sequence diagrams를 모두 아우르는 다이어그램
+
+    - Role name, attributes, operations, multiplicity 가능한 다 표시
+
+    - 작성자 이름 표시
+
+* Object diagram은 한 개
+
+   - Scenario description 하나에 대해
+
+   - 객체 이름에 클래스 이름도 반드시 표시
+
+   - 작성자 이름 표시
+   
+- - -
+
+### 과제 4 : 답안
+
    **Class Diagram
    
    ![ClassDiagram](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/ClassDiagram.JPG)

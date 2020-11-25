@@ -317,3 +317,39 @@ Sequence Diagram and Class Diagram
     
    *작성자: 고현우*
 
+
+
+### 과제 5 : Component Diagram
+* Design Goal Description (최소한 2개 이상: 우선순위 순서로)
+
+ 
+
+* Component Diagram
+
+   - 출발점은 Analysis Class Diagram (이미 했던 거)
+
+   - Architectural style 적용을 통해 새로운 클래스가 추가될 수 있음: Anlaysis 단계에 없던 것은 별도로 표시 <<design>>
+
+   - 우리 팀이 만드는 게 아니라 가져다 쓰는 COS(Commertial Off the Shelf)도 표현 <<imported>> 또는 <<COS>>
+
+   - Component 간의 의존성(dependency) 표현(--->) + Component 내 포함된 클래스(structured class: 내부 클래스와 외부로 연결되는 Uses(()와 Provides(o) 인터페이스 연결도 표시)
+
+  
+
+ 
+
+(다음 시간에 Deployment Diagram) 
+
+
+
+### 과제 5 : 답안
+
+   **Design Goal Description
+     
+     -Textbook Group Purchase
+      1. 우리 학교 웹사이트가 외부 프로그램인 북스토어에게 얼마나 잘 지원받을 수 있는가(Utility)  
+   
+      2. 매 학기마다 과목 정보가 잘 업데이트되는가(Extensibility, Modifiability)
+   
+   
+   **Component Diagram

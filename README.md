@@ -357,4 +357,4 @@ Sequence Diagram and Class Diagram
    
    
    **Deployment Diagram
-   ![deployment](https://user-images.githubusercontent.com/70632490/100821444-bcf5e300-3493-11eb-9711-a7bc3557f9aa.PNG)
+   ![deployment2](https://user-images.githubusercontent.com/70632490/100822885-8b324b80-3496-11eb-8167-aefeb64b60a1.PNG)

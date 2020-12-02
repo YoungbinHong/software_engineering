@@ -353,3 +353,8 @@ Sequence Diagram and Class Diagram
    
    
    **Component Diagram
+   ![diagram](https://user-images.githubusercontent.com/70632490/100821432-b2d3e480-3493-11eb-8bfb-758f917dce00.PNG)
+   
+   
+   **Deployment Diagram
+   ![deployment](https://user-images.githubusercontent.com/70632490/100821444-bcf5e300-3493-11eb-9711-a7bc3557f9aa.PNG)

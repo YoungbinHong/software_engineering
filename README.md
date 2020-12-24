@@ -354,7 +354,10 @@ Sequence Diagram and Class Diagram
    
    **Component Diagram
    ![diagram](https://user-images.githubusercontent.com/70632490/100821432-b2d3e480-3493-11eb-8bfb-758f917dce00.PNG)
+   *작성자: 고현우*
    
    
    **Deployment Diagram
    ![deployment2](https://user-images.githubusercontent.com/70632490/100822885-8b324b80-3496-11eb-8167-aefeb64b60a1.PNG)
+   *작성자: 고현우*
+   
